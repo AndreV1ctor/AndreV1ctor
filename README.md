@@ -1,14 +1,12 @@
-### - Hi! Welcome to my profile  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"> 
+### - Olá! Seja bem vindo ao meu perfil  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"> 
 ______________________________________________________________________________
-##### - 🎓 System Development Technician
-##### - 📚 Estudent Backend Development (Python and JS)
-##### - 📫 meet me email: andre.leonidas458@gmail.com
-##### - 👨🏻‍💻 Looking for technology opportunity
-##### - 💭 Meditation: Excellence is not an act. It's a habit. 🧠
+##### - 🎓 Técnico em Desenvolvimento de Sistemas
+##### - 📚 Estudante Back-end (Python e JS)
+##### - 📫 Me encontre por meio do email: andre.leonidas458@gmail.com
+##### - 👨🏻‍💻 Em busca de uma oportunidade profissional na área.
+##### - 💭 Meditação: Excelência não é um ato. É um hábito. 🧠
 
- Hello everyone, my name is André, I'm 26 years old, I'm from the Brazilian northeast region and I'm in constant search of knowledge for backend development.
-If I weren't passionate about programming, you would probably see me as a physical therapist, at first, health was my first choice before technology pulsed in my heart.
-I currently work in the healthcare field (not as a physical therapist), but with the aim of migrating completely to technology in the short term.
+ Olá, meu nome é André, tenho 26 anos, sou do nordeste brasileiro e estou em constante busca de conhecimento para desenvolvimento backend. Se eu não fosse apaixonado por programação, você provavelmente me veria como fisioterapeuta, a princípio, saúde era minha primeira escolha antes que a tecnologia pulsasse no meu coração. Atualmente trabalho na área da saúde (não como fisioterapeuta), mas com o objetivo de migrar completamente para a tecnologia em curto prazo.
 
  <div>
   <a href="https://github.com/AndreV1ctor">

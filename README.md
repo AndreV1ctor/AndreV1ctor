@@ -1,14 +1,14 @@
-### - Olá! Sejam bem vindos ao meu perfil  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"> 
+### - Hi! Welcome to my profile  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"> 
 ______________________________________________________________________________
-##### - 🎓 Técnico em Análise e Desenvolvimento de Sistemas
-##### - 📚 Estudando HTML, CSS e JS (front-end)
-##### - 📫 Contratações via email: andre.leonidas458@gmail.com
-##### - 👨🏻‍💻 Hoje em busca de novas oportunidades
-##### - 💭 Meditação: Excelência não é um ato. É um hábito. 🧠
+##### - 🎓 System Development Technician
+##### - 📚 Estudent Backend Development (Python and JS)
+##### - 📫 meet me email: andre.leonidas458@gmail.com
+##### - 👨🏻‍💻 Looking for technology opportunity
+##### - 💭 Meditation: Excellence is not an act. It's a habit. 🧠
 
- Hello guys, my name is André, I'm 26 years old and I'm in constant search of knowledge for development. Currently taking courses in Python, JavaScript and TypeScript.
+ Hello everyone, my name is André, I'm 26 years old, I'm from the Brazilian northeast region and I'm in constant search of knowledge for backend development.
 If I weren't passionate about programming, you would probably see me as a physical therapist, at first, health was my first choice before technology pulsed in my heart.
-Currently I work in health (not as a physiotherapist), but aiming to migrate in the short term completely to technology.
+I currently work in the healthcare field (not as a physical therapist), but with the aim of migrating completely to technology in the short term.
 
  <div>
   <a href="https://github.com/AndreV1ctor">

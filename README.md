@@ -6,6 +6,10 @@ ______________________________________________________________________________
 ##### - 👨🏻‍💻 Hoje em busca de novas oportunidades
 ##### - 💭 Meditação: Excelência não é um ato. É um hábito. 🧠
 
+ Hello guys, my name is André, I'm 26 years old and I'm in constant search of knowledge for development. Currently taking courses in Python, JavaScript and TypeScript.
+If I weren't passionate about programming, you would probably see me as a physical therapist, at first, health was my first choice before technology pulsed in my heart.
+Currently I work in health (not as a physiotherapist), but aiming to migrate in the short term completely to technology.
+
  <div>
   <a href="https://github.com/AndreV1ctor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreV1ctor&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>

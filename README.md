@@ -26,3 +26,5 @@ ______________________________________________________________________________
   <a href="https://discord.gg/YzazSZX9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  </a> 
   
+  ![Snake animation](https://github.com/AndreV1ctor/AndreV1ctor/blob/output/github-contribution-grid-snake.svg)
+  

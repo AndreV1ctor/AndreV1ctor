@@ -1,4 +1,4 @@
-   Olá, meu nome é André, tenho 26 anos, sou do nordeste brasileiro e estou em constante busca de conhecimento para desenvolvimento backend. Se eu não fosse apaixonado por programação, você provavelmente me veria como fisioterapeuta, a princípio, saúde era minha primeira escolha antes que a tecnologia pulsasse no meu coração. Atualmente trabalho na área da saúde (não como fisioterapeuta), mas com o objetivo de migrar completamente para a tecnologia em curto prazo..
+#### Em constante busca por conhecimento para desenvolvimento voltado à backend. Se eu não fosse apaixonado por gamers, você provavelmente me veria como fisioterapeuta, a princípio, saúde era minha primeira escolha antes da àrea de T.I pulsar nas minhas veias.
 
 ______________________________________________________________________________
 

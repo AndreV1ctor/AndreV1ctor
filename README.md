@@ -8,9 +8,13 @@ ______________________________________________________________________________
 
  Olá, meu nome é André, tenho 26 anos, sou do nordeste brasileiro e estou em constante busca de conhecimento para desenvolvimento backend. Se eu não fosse apaixonado por programação, você provavelmente me veria como fisioterapeuta, a princípio, saúde era minha primeira escolha antes que a tecnologia pulsasse no meu coração. Atualmente trabalho na área da saúde (não como fisioterapeuta), mas com o objetivo de migrar completamente para a tecnologia em curto prazo..
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreV1ctor&show_icons=true&theme=onedark)
+
+
  <div>
   <a href="https://github.com/AndreV1ctor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreV1ctor&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreV1ctor&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
@@ -22,5 +26,3 @@ ______________________________________________________________________________
   <a href="https://discord.gg/YzazSZX9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  </a> 
   
-![Snake animation](https://github.com/AndreV1ctor/AndreV1ctor/blob/output/github-contribution-grid-snake.svg)
- 

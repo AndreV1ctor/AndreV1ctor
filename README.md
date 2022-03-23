@@ -9,13 +9,13 @@ ______________________________________________________________________________
  Olá, meu nome é André, tenho 26 anos, sou do nordeste brasileiro e estou em constante busca de conhecimento para desenvolvimento backend. Se eu não fosse apaixonado por programação, você provavelmente me veria como fisioterapeuta, a princípio, saúde era minha primeira escolha antes que a tecnologia pulsasse no meu coração. Atualmente trabalho na área da saúde (não como fisioterapeuta), mas com o objetivo de migrar completamente para a tecnologia em curto prazo..
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreV1ctor&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreV1ctor&show_icons=true&theme=gradient)
 
 
  <div>
   <a href="https://github.com/AndreV1ctor">
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreV1ctor&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreV1ctor&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
  ##

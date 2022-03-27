@@ -1,5 +1,6 @@
 #### Em constante busca por conhecimento para desenvolvimento voltado à backend. Se eu não fosse apaixonado por gamers, você provavelmente me veria como fisioterapeuta, a princípio, saúde era minha primeira escolha antes da àrea de T.I pulsar nas minhas veias.
 
+:)
 ______________________________________________________________________________
 
 <div align="center">

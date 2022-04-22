@@ -3,7 +3,8 @@ ______________________________________________________________________________
 
 <div align="center">
   <a href="https://github.com/AndreV1ctor">
-  
+    
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreV1ctor&show_icons=true&theme=dracula)
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreV1ctor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  

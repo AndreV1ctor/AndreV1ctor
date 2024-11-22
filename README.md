@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm André Victor</h1>
 <h3 align="center">I'm a web developer with a passion for technology, currently working specifically with the Angular framework.</h3>
 
-<div align="center">
-  - 🌱 I’m currently learning **Angular, TypeScript and Spring boot**
-</div>
-
 <br>
 
 <div align="center">

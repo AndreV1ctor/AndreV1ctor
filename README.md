@@ -32,7 +32,7 @@ Atualmente sou desenvolvedor web na <b>Devzapp</b> <br/><br/>
 
 <div align='center'>
   <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernnandez&layout=compact&theme=dark&title_color=268bd2"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreV1ctor&layout=compact&theme=dark&title_color=268bd2"/>
 </p>
 <p> 
 </div>  

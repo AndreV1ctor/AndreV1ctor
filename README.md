@@ -30,3 +30,9 @@ Atualmente sou desenvolvedor web na <b>Devzapp</b> <br/><br/>
 
 [![My Skills](https://skillicons.dev/icons?i=angular,typescript,java,spring,js,mongodb,html,css,bootstrap&theme=light)](https://skillicons.dev)
 
+<br>
+
+<h3 align="center">Networking:</h3>
+<div  align="center" ><a href="https://www.linkedin.com/in/andrev1ctor/"><img alt="AndreV1ctor | LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png"/></a>
+</div>
+

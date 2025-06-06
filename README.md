@@ -14,7 +14,7 @@ Atualmente sou desenvolvedor web na <b>Devzapp</b> <br/><br/>
 </p>
 
 - 👩‍💻 Trabalho diariamente com o framework Angular; 
-- 👩‍💻 Também estudo Java com Spring Boot para futuros desenvolvimento no backend 🙃
+- 👩‍💻 Também estudo Java com Spring Boot para futuros desenvolvimento também de backend (ou FullStack) 🙃
 
 <div >
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">

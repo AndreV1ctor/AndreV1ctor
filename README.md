@@ -16,8 +16,8 @@ Me chamo <b>André Victor</b>.
 Atualmente sou desenvolvedor web na <b>Devzapp</b> <br/><br/>
 </p>
 
-- 👩‍💻 Trabalho diariamente com o framework Angular; 
-- 👩‍💻 Também estudo Java com Spring Boot para futuras soluções backend (ou FullStack) 🙃
+- 👩‍💻 Trabalho diariamente com o framework Angular & TypeScript; 
+- 👩‍💻 Também estudo Java com Spring Boot para futuras soluções também no backend  🙃
 
 <div >
   <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">

@@ -13,10 +13,10 @@ Me chamo <b>André Victor</b>.
 </p>
 
 <p align="left" >
-Atualmente sou desenvolvedor web na <b>Devzapp</b> <br/><br/>
+Atualmente sou desenvolvedor web <b>Freelancer</b> <br/><br/>
 </p>
 
-- 👩‍💻 Trabalho diariamente com o framework Angular & TypeScript; 
+- 👩‍💻 Já Trabalhei em soluções utilizando framework Angular & TypeScript; 
 - 👩‍💻 Também estudo Java com Spring Boot para futuras soluções também no backend  🙃
 
 <div >
